@@ -242,24 +242,32 @@ backface-visibility: hidden;
     height: 200px;
     width: 500px;
     border: none;
+    text-align: center;
+    
 }
 .rap2{
     background-color: skyblue;
     height: 200px;
     width: 500px;
     border: none;
+    text-align: center;
+   
 }
 .rap3{
     background-color:skyblue;
     height: 200px;
     width: 500px;
     border: none;
+    text-align: center;
+   
 }
 .rap4{
     background-color: yellow;
     height: 200px;
     width: 500px;
     border: none;
+    text-align: center;
+    
 }
 .cat{
     display: flex;
